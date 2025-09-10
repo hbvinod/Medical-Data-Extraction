@@ -1,4 +1,4 @@
-import streamlit as st
+import streamlit as 
 from medical_extractor import extract_text_from_pdf, extract_medical_info, save_to_csv, save_to_pdf
 
 st.title("🩺 Medical Data Extraction Report")
