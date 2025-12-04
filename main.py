@@ -1,7 +1,7 @@
 import pytesseract
 import cv2
 import fitz  # PyMuPDF
-import pandas as pd
+import pandas as pd 
 import re
 import spacy
 import scispacy
