@@ -24,3 +24,6 @@ if uploaded_file:
         if st.button("Download PDF"):
             save_to_pdf(extracted)
             st.success("Saved as output.pdf")
+
+
+
